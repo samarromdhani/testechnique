@@ -1,0 +1,178 @@
+2024-04-13 15:49:12,072 ERROR produit.views errorJSON parse error - Expecting property name enclosed in double quotes: line 5 column 1 (char 59)
+2024-04-13 15:49:12,525 ERROR django.request Internal Server Error: /api/produit/update/
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2024-04-13 15:49:12,529 ERROR django.server "PUT /api/produit/update/ HTTP/1.1" 500 85400
+2024-04-13 15:49:21,198 ERROR produit.views errorCannot resolve keyword 'testeur_Id' into field. Choices are: categories_Produit, code_Produit, date_Creation, designation, image, produit_Id
+2024-04-13 15:49:21,229 ERROR django.request Internal Server Error: /api/produit/update/
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2024-04-13 15:49:21,230 ERROR django.server "PUT /api/produit/update/ HTTP/1.1" 500 85400
+2024-04-13 15:50:14,281 ERROR produit.views errorCannot resolve keyword 'testeur_Id' into field. Choices are: categories_Produit, code_Produit, date_Creation, designation, image, produit_Id
+2024-04-13 15:50:14,422 ERROR django.request Internal Server Error: /api/produit/update/
+Traceback (most recent call last):
+  File "C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py", line 26, in miseAJourProduit
+    produit_data=Produit.objects.get(testeur_Id=request.data['produit_id'])
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\db\models\query.py", line 482, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\db\models\query.py", line 1071, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\db\models\query.py", line 1089, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\db\models\query.py", line 1096, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\db\models\sql\query.py", line 1502, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\db\models\sql\query.py", line 1532, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\db\models\sql\query.py", line 1377, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\db\models\sql\query.py", line 1187, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\db\models\sql\query.py", line 1677, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'testeur_Id' into field. Choices are: categories_Produit, code_Produit, date_Creation, designation, image, produit_Id
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py", line 33, in miseAJourProduit
+    return JsonResponse("Modifier avec succés".data,safe=False)
+AttributeError: 'str' object has no attribute 'data'
+2024-04-13 15:50:14,427 ERROR django.server "PUT /api/produit/update/ HTTP/1.1" 500 152341
+2024-04-13 15:50:50,504 ERROR produit.views errorrequest
+2024-04-13 15:50:50,561 ERROR django.request Internal Server Error: /api/produit/update/
+Traceback (most recent call last):
+  File "C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py", line 27, in miseAJourProduit
+    produit_data.categories_Produit=Categories.request.data['categoriesProduit']
+  File "C:\Program Files (x86)\PYTON3.8\lib\enum.py", line 341, in __getattr__
+    raise AttributeError(name) from None
+AttributeError: request
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py", line 33, in miseAJourProduit
+    return JsonResponse("Modifier avec succés".data,safe=False)
+AttributeError: 'str' object has no attribute 'data'
+2024-04-13 15:50:50,564 ERROR django.server "PUT /api/produit/update/ HTTP/1.1" 500 109201
+2024-04-13 15:51:26,358 ERROR produit.views errorrequest
+2024-04-13 15:53:04,879 ERROR produit.views errorrequest
+2024-04-13 15:54:17,623 ERROR produit.views errorrequest
+2024-04-13 15:55:21,987 ERROR produit.views error'categoriesProduit'
+2024-04-13 15:56:28,341 ERROR produit.views error'categorie'
+2024-04-13 15:57:08,158 ERROR produit.views errorrequest
+2024-04-13 15:58:45,935 ERROR produit.views errorcategorie
+2024-04-13 15:59:20,254 ERROR produit.views errorcategorie
+2024-04-13 15:59:35,611 ERROR produit.views errorstr
+2024-04-13 16:02:10,540 ERROR produit.views error'categorie'
+2024-04-13 16:02:56,154 ERROR produit.views error'categorie'
+2024-04-13 16:03:13,294 ERROR produit.views errorcategorie
+2024-04-13 16:03:33,046 ERROR produit.views errorcategorie
+2024-04-13 16:03:38,993 ERROR produit.views errorcategorie
+2024-04-13 16:07:00,122 ERROR produit.views errorcategorie
+2024-04-13 16:07:09,004 ERROR produit.views errorcategorie
+2024-04-13 16:09:38,853 ERROR produit.views error'categories_Produit'
+2024-04-13 16:09:39,303 ERROR django.request Internal Server Error: /api/produit/update/
+Traceback (most recent call last):
+  File "C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py", line 29, in miseAJourProduit
+    categorie=request.data['categories_Produit']
+KeyError: 'categories_Produit'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py", line 42, in miseAJourProduit
+    return JsonResponse("error lors de mise a jour",safe=False,status=status.HTTP_500)
+AttributeError: module 'rest_framework.status' has no attribute 'HTTP_500'
+2024-04-13 16:09:39,307 ERROR django.server "PUT /api/produit/update/ HTTP/1.1" 500 105698

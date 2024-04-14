@@ -1,0 +1,1291 @@
+2024-04-13 13:06:57,364 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 13:07:41,741 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\test_back_end\settings.py changed, reloading.
+2024-04-13 13:33:01,560 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 13:33:50,525 INFO django.server "GET / HTTP/1.1" 200 10697
+2024-04-13 13:33:50,674 INFO django.server "GET /static/admin/css/fonts.css HTTP/1.1" 200 423
+2024-04-13 13:33:50,733 INFO django.server "GET /static/admin/fonts/Roboto-Bold-webfont.woff HTTP/1.1" 200 86184
+2024-04-13 13:33:50,735 INFO django.server "GET /static/admin/fonts/Roboto-Regular-webfont.woff HTTP/1.1" 200 85876
+2024-04-13 13:33:50,748 INFO django.server "GET /static/admin/fonts/Roboto-Light-webfont.woff HTTP/1.1" 200 85692
+2024-04-13 13:33:50,997 WARNING django.request Not Found: /favicon.ico
+2024-04-13 13:33:50,998 WARNING django.server "GET /favicon.ico HTTP/1.1" 404 2117
+2024-04-13 13:34:03,118 WARNING django.request Not Found: /produit/list
+2024-04-13 13:34:03,119 WARNING django.server "GET /produit/list HTTP/1.1" 404 2120
+2024-04-13 13:34:13,612 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\test_back_end\urls.py changed, reloading.
+2024-04-13 13:34:14,701 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 13:34:26,064 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 13:34:27,242 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 13:34:32,624 WARNING django.request Not Found: /produit/list
+2024-04-13 13:34:32,624 WARNING django.server "GET /produit/list HTTP/1.1" 404 2126
+2024-04-13 13:34:45,805 WARNING django.request Not Found: /api/produit/list/
+2024-04-13 13:34:45,805 WARNING django.server "GET /api/produit/list/ HTTP/1.1" 404 2193
+2024-04-13 13:34:59,124 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\urls.py changed, reloading.
+2024-04-13 13:35:00,123 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 13:35:04,506 WARNING django.request Not Found: /api/produit/list/
+2024-04-13 13:35:04,507 WARNING django.server "GET /api/produit/list/ HTTP/1.1" 404 2192
+2024-04-13 13:35:07,078 WARNING django.request Not Found: /api/produit/list/
+2024-04-13 13:35:07,079 WARNING django.server "GET /api/produit/list/ HTTP/1.1" 404 2192
+2024-04-13 13:35:58,598 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 13:36:03,681 WARNING django.request Not Found: /api/produit/list/
+2024-04-13 13:36:03,682 WARNING django.server "GET /api/produit/list/ HTTP/1.1" 404 2192
+2024-04-13 13:36:04,120 WARNING django.request Not Found: /api/produit/list/
+2024-04-13 13:36:04,121 WARNING django.server "GET /api/produit/list/ HTTP/1.1" 404 2192
+2024-04-13 13:36:04,724 WARNING django.request Not Found: /api/produit/list/
+2024-04-13 13:36:04,726 WARNING django.server "GET /api/produit/list/ HTTP/1.1" 404 2192
+2024-04-13 13:36:04,935 WARNING django.request Not Found: /api/produit/list/
+2024-04-13 13:36:04,936 WARNING django.server "GET /api/produit/list/ HTTP/1.1" 404 2192
+2024-04-13 13:36:05,095 WARNING django.request Not Found: /api/produit/list/
+2024-04-13 13:36:05,095 WARNING django.server "GET /api/produit/list/ HTTP/1.1" 404 2192
+2024-04-13 13:36:05,342 WARNING django.request Not Found: /api/produit/list/
+2024-04-13 13:36:05,342 WARNING django.server "GET /api/produit/list/ HTTP/1.1" 404 2192
+2024-04-13 13:36:05,578 WARNING django.request Not Found: /api/produit/list/
+2024-04-13 13:36:05,579 WARNING django.server "GET /api/produit/list/ HTTP/1.1" 404 2192
+2024-04-13 13:36:06,096 WARNING django.request Not Found: /api/produit/list/
+2024-04-13 13:36:06,096 WARNING django.server "GET /api/produit/list/ HTTP/1.1" 404 2192
+2024-04-13 13:36:09,960 WARNING django.request Not Found: /
+2024-04-13 13:36:09,961 WARNING django.server "GET / HTTP/1.1" 404 2072
+2024-04-13 13:36:19,977 WARNING django.request Not Found: /api/produit/
+2024-04-13 13:36:19,978 WARNING django.server "GET /api/produit/ HTTP/1.1" 404 2177
+2024-04-13 13:36:27,390 WARNING django.request Not Found: /api/produit/ list/
+2024-04-13 13:36:27,391 WARNING django.server "GET /api/produit/%20list/ HTTP/1.1" 404 2197
+2024-04-13 13:36:44,882 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\test_back_end\urls.py changed, reloading.
+2024-04-13 13:36:46,005 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 13:36:50,160 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\urls.py changed, reloading.
+2024-04-13 13:36:51,120 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 13:38:16,881 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 13:38:18,342 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 13:38:22,641 WARNING django.request Not Found: /api/produit/ list/
+2024-04-13 13:38:22,642 WARNING django.server "GET /api/produit/%20list/ HTTP/1.1" 404 2197
+2024-04-13 13:38:32,494 WARNING django.request Not Found: /api/produit/list/
+2024-04-13 13:38:32,495 WARNING django.server "GET /api/produit/list/ HTTP/1.1" 404 2192
+2024-04-13 13:38:33,543 WARNING django.request Not Found: /api/produit/list/
+2024-04-13 13:38:33,543 WARNING django.server "GET /api/produit/list/ HTTP/1.1" 404 2192
+2024-04-13 13:38:34,475 WARNING django.request Not Found: /api/produit/list/
+2024-04-13 13:38:34,476 WARNING django.server "GET /api/produit/list/ HTTP/1.1" 404 2192
+2024-04-13 13:38:42,407 WARNING django.request Not Found: /api/produit / list/
+2024-04-13 13:38:42,407 WARNING django.server "GET /api/produit%20/%20list/ HTTP/1.1" 404 2202
+2024-04-13 13:38:44,398 WARNING django.request Not Found: /api/produit / list/
+2024-04-13 13:38:44,398 WARNING django.server "GET /api/produit%20/%20list/ HTTP/1.1" 404 2202
+2024-04-13 13:39:36,231 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 13:40:15,927 WARNING django.request Not Found: /api/produit/list/
+2024-04-13 13:40:15,928 WARNING django.server "GET /api/produit/list/ HTTP/1.1" 404 2192
+2024-04-13 13:40:49,614 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\urls.py changed, reloading.
+2024-04-13 13:40:50,732 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 13:40:59,373 WARNING django.request Not Found: /api/produit
+2024-04-13 13:40:59,374 WARNING django.server "GET /api/produit HTTP/1.1" 404 2173
+2024-04-13 13:41:04,712 WARNING django.request Not Found: /api/produit list
+2024-04-13 13:41:04,712 WARNING django.server "GET /api/produit%20list HTTP/1.1" 404 2190
+2024-04-13 13:41:14,108 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\urls.py changed, reloading.
+2024-04-13 13:41:14,996 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 13:41:21,320 INFO django.server "GET /api/produit HTTP/1.1" 200 2
+2024-04-13 13:41:32,420 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\urls.py changed, reloading.
+2024-04-13 13:41:33,345 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 13:41:41,012 WARNING django.request Not Found: /api/produit
+2024-04-13 13:41:41,012 WARNING django.server "GET /api/produit HTTP/1.1" 404 2173
+2024-04-13 13:41:41,694 WARNING django.request Not Found: /api/produit/list/
+2024-04-13 13:41:41,695 WARNING django.server "GET /api/produit/list/ HTTP/1.1" 404 2191
+2024-04-13 13:41:57,311 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\test_back_end\urls.py changed, reloading.
+2024-04-13 13:41:58,602 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 13:42:00,850 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 2
+2024-04-13 13:49:03,816 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\models.py changed, reloading.
+2024-04-13 13:49:04,902 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 13:51:44,242 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 13:51:46,728 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 328
+2024-04-13 13:53:55,788 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\produit_serializer.py changed, reloading.
+2024-04-13 13:53:57,019 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 13:54:03,004 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\produit_serializer.py changed, reloading.
+2024-04-13 13:54:04,378 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 13:54:10,862 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:14:55,555 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:14:55,710 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:14:56,568 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:14:56,909 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:14:57,675 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:14:58,407 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:14:58,617 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:15:02,334 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:16:02,610 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\test_back_end\settings.py changed, reloading.
+2024-04-13 14:16:04,179 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 14:16:09,153 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:16:20,124 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\test_back_end\settings.py changed, reloading.
+2024-04-13 14:16:21,459 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 14:16:49,091 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\test_back_end\settings.py changed, reloading.
+2024-04-13 14:16:50,219 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 14:16:57,163 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:17:55,579 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\test_back_end\settings.py changed, reloading.
+2024-04-13 14:17:56,848 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 14:18:03,223 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:18:18,791 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\test_back_end\settings.py changed, reloading.
+2024-04-13 14:18:20,129 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 14:18:25,772 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:19:12,576 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\test_back_end\settings.py changed, reloading.
+2024-04-13 14:19:13,622 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 14:19:26,526 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:21:40,512 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:21:40,893 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:21:41,205 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:21:41,228 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:21:41,325 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:21:41,392 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:21:41,748 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:22:02,978 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:22:03,287 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:22:04,430 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:22:04,938 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:22:05,242 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:22:05,299 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:22:05,305 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:22:07,607 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:23:26,475 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:23:26,501 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:23:26,690 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:23:27,014 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:23:27,687 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:23:28,064 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:23:29,901 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:23:34,778 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:24:01,647 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:24:02,511 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:24:02,893 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:24:02,927 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:24:03,087 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:24:03,389 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:24:03,723 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:24:05,149 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:29:54,126 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:29:54,422 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:29:54,993 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:29:56,181 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:29:57,184 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:29:57,302 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:29:57,367 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:29:57,397 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:33:14,048 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:33:15,162 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:33:15,256 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:33:16,369 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:33:16,381 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:33:16,964 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:33:17,124 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:33:17,180 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:33:27,233 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:33:27,717 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:33:27,900 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:33:29,283 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:33:29,290 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:33:29,721 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:33:29,745 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:33:31,499 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:33:32,598 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:33:44,537 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:33:45,814 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:33:45,988 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:33:47,072 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:33:47,813 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:33:48,061 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:33:48,979 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:33:49,553 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:33:51,052 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 342
+2024-04-13 14:34:47,550 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:35:37,393 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:35:37,470 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:35:38,941 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:35:39,051 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:35:39,373 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:35:39,972 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:35:40,335 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:35:40,716 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:35:44,966 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:35:45,510 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:35:46,525 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:35:46,896 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:35:47,965 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:35:48,019 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:35:49,167 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:35:49,489 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:36:42,794 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:36:43,418 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:36:44,089 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:36:44,261 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:36:45,382 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:36:47,051 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:36:47,276 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:36:47,503 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:37:09,739 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:37:10,886 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:37:11,422 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:37:12,198 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:37:13,050 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:37:13,310 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:37:15,580 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:37:16,099 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:37:19,090 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:38:58,702 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:38:58,825 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:38:58,847 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:38:58,974 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:38:59,642 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:39:00,187 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:39:00,299 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:39:00,959 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:39:12,837 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:39:13,118 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:39:13,152 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:39:13,534 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:39:14,164 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:39:14,540 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:39:14,691 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:39:14,976 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:40:45,453 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:40:45,525 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:40:46,246 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:40:46,926 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:40:47,787 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:40:48,106 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:40:48,110 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:40:48,160 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:40:55,609 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:42:04,378 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:42:04,465 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:42:05,190 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:42:05,200 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:42:05,438 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:42:06,150 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:42:06,510 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:42:06,852 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:44:19,155 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:47:25,365 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:47:25,410 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:47:25,669 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:47:26,165 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:47:27,019 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:47:27,439 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:47:28,251 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:47:28,283 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:48:29,624 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:48:29,775 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:48:29,911 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:48:30,151 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:48:30,206 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:48:30,307 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:48:31,145 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:48:32,017 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:48:52,223 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:48:53,105 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:48:53,464 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:48:53,566 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:48:53,994 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:48:54,699 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:48:54,989 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:48:55,028 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:48:57,877 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:48:59,646 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:49:00,001 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:49:00,261 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:49:00,822 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:49:02,024 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:49:02,211 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:52:09,010 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:52:09,944 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:52:10,498 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:52:10,686 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:52:10,721 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:52:11,844 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:52:11,891 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:52:12,091 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:52:15,093 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:52:15,292 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:52:16,047 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:52:16,414 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:52:17,939 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:52:28,927 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:52:30,087 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:52:30,351 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:52:30,613 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:52:32,444 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:52:32,679 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:52:32,955 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:52:33,037 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:52:58,276 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:53:28,542 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 515
+2024-04-13 14:53:58,725 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 14:56:48,336 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 14:56:48,854 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 14:56:49,055 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 14:56:49,287 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 14:56:51,167 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 14:56:52,017 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 14:56:52,177 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 14:56:52,332 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 14:56:56,573 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 14:57:51,367 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 14:57:51,523 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 14:57:52,500 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 14:57:53,050 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 14:57:54,328 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 14:57:55,220 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 14:57:56,067 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 14:57:56,118 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 14:57:56,165 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 14:58:32,984 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 14:59:00,922 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:03:58,317 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:03:59,225 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:03:59,502 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:03:59,976 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:04:00,524 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:04:00,838 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:04:01,054 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:04:02,079 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:04:09,138 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:04:48,784 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:04:49,167 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:04:49,552 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:04:49,613 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:04:49,843 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:04:50,611 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:04:51,468 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:04:51,508 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:07:05,870 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:07:07,453 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:07:07,517 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:07:07,711 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:07:09,236 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:07:09,247 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:07:09,466 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:07:09,506 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:07:10,946 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:10:45,361 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:10:46,099 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:10:46,669 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:10:47,580 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:10:49,093 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:10:50,005 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:10:50,240 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:10:50,542 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:10:52,090 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:11:41,410 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:11:42,896 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:11:42,996 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:11:43,857 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:11:44,011 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:11:44,133 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:11:44,395 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:11:44,491 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:12:08,996 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:12:58,343 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:12:59,342 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:12:59,430 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:12:59,851 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:13:00,835 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:13:01,062 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:13:01,560 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:13:01,941 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:13:23,226 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:13:23,972 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:13:24,116 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:13:24,724 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:13:25,081 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:13:25,405 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:13:26,001 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:13:26,431 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:13:47,173 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:17:14,901 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:17:15,089 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:17:15,956 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:17:16,478 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:17:17,084 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:17:17,142 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:17:17,425 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:17:18,215 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:19:29,995 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:19:30,951 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:19:31,046 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:19:31,110 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:19:32,214 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:19:32,674 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:19:33,032 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:19:33,296 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:19:46,498 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:20:13,733 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:22:35,905 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:22:36,958 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:22:37,056 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:22:37,522 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:22:37,989 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:22:38,148 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:22:38,640 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:22:39,752 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:22:43,979 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:22:44,107 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:22:45,019 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:22:45,720 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:22:45,954 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:22:46,624 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:22:46,760 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:22:47,026 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:22:53,856 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:22:54,264 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:22:56,166 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:22:56,169 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:22:58,311 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:22:58,957 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:22:59,415 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:23:00,254 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:23:27,742 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:36:00,743 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:36:00,861 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:36:01,925 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:36:01,965 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:36:02,150 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:36:02,216 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:36:02,476 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:36:19,677 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:36:19,904 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:36:20,523 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:36:20,578 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:36:20,854 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:36:20,886 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:36:21,340 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:44:59,498 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 15:45:00,919 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 15:45:08,514 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 15:45:09,604 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 15:45:38,008 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\urls.py changed, reloading.
+2024-04-13 15:45:39,048 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 15:45:46,322 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 15:45:47,629 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 15:47:33,963 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 15:47:35,244 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 15:49:12,525 ERROR django.request Internal Server Error: /api/produit/update/
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2024-04-13 15:49:12,529 ERROR django.server "PUT /api/produit/update/ HTTP/1.1" 500 85400
+2024-04-13 15:49:21,229 ERROR django.request Internal Server Error: /api/produit/update/
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 511, in dispatch
+    self.response = self.finalize_response(request, response, *args, **kwargs)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 423, in finalize_response
+    assert isinstance(response, HttpResponseBase), (
+AssertionError: Expected a `Response`, `HttpResponse` or `HttpStreamingResponse` to be returned from the view, but received a `<class 'NoneType'>`
+2024-04-13 15:49:21,230 ERROR django.server "PUT /api/produit/update/ HTTP/1.1" 500 85400
+2024-04-13 15:50:00,012 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 15:50:01,041 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 15:50:11,540 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 15:50:12,766 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 15:50:14,422 ERROR django.request Internal Server Error: /api/produit/update/
+Traceback (most recent call last):
+  File "C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py", line 26, in miseAJourProduit
+    produit_data=Produit.objects.get(testeur_Id=request.data['produit_id'])
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\db\models\manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\db\models\query.py", line 482, in get
+    clone = self._chain() if self.query.combinator else self.filter(*args, **kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\db\models\query.py", line 1071, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\db\models\query.py", line 1089, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\db\models\query.py", line 1096, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\db\models\sql\query.py", line 1502, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\db\models\sql\query.py", line 1532, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\db\models\sql\query.py", line 1377, in build_filter
+    lookups, parts, reffed_expression = self.solve_lookup_type(arg)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\db\models\sql\query.py", line 1187, in solve_lookup_type
+    _, field, _, lookup_parts = self.names_to_path(lookup_splitted, self.get_meta())
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\db\models\sql\query.py", line 1677, in names_to_path
+    raise FieldError(
+django.core.exceptions.FieldError: Cannot resolve keyword 'testeur_Id' into field. Choices are: categories_Produit, code_Produit, date_Creation, designation, image, produit_Id
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py", line 33, in miseAJourProduit
+    return JsonResponse("Modifier avec succés".data,safe=False)
+AttributeError: 'str' object has no attribute 'data'
+2024-04-13 15:50:14,427 ERROR django.server "PUT /api/produit/update/ HTTP/1.1" 500 152341
+2024-04-13 15:50:46,645 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 15:50:47,709 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 15:50:50,561 ERROR django.request Internal Server Error: /api/produit/update/
+Traceback (most recent call last):
+  File "C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py", line 27, in miseAJourProduit
+    produit_data.categories_Produit=Categories.request.data['categoriesProduit']
+  File "C:\Program Files (x86)\PYTON3.8\lib\enum.py", line 341, in __getattr__
+    raise AttributeError(name) from None
+AttributeError: request
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py", line 33, in miseAJourProduit
+    return JsonResponse("Modifier avec succés".data,safe=False)
+AttributeError: 'str' object has no attribute 'data'
+2024-04-13 15:50:50,564 ERROR django.server "PUT /api/produit/update/ HTTP/1.1" 500 109201
+2024-04-13 15:51:18,708 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 15:51:19,536 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 15:51:26,361 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 15:52:38,364 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:53:04,880 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 15:53:11,465 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:53:56,701 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 15:53:57,917 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 15:54:17,624 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 15:54:25,535 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:54:25,931 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:54:26,154 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:54:26,344 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:54:26,761 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 692
+2024-04-13 15:54:57,820 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 15:54:58,796 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 15:55:03,865 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 15:55:16,816 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 15:55:17,979 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 15:55:21,987 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 15:56:03,764 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 15:56:05,110 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 15:56:07,257 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 15:56:08,427 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 15:56:23,158 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 15:56:24,457 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 15:56:28,342 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 15:57:04,600 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 15:57:06,044 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 15:57:08,160 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 15:57:58,149 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 15:57:59,145 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 15:58:05,286 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 15:58:06,308 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 15:58:45,936 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 15:59:11,745 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 15:59:12,886 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 15:59:20,256 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 15:59:32,039 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 15:59:33,370 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 15:59:35,612 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 16:02:06,175 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 16:02:07,493 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 16:02:10,542 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 16:02:42,480 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 16:02:43,568 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 16:02:49,548 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 16:02:50,579 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 16:02:56,155 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 16:03:07,542 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 16:03:08,638 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 16:03:13,296 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 16:03:24,544 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 16:03:25,726 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 16:03:33,047 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 16:03:38,994 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 16:06:38,096 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 16:06:39,259 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 16:06:48,680 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 16:06:49,608 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 16:06:53,712 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\models.py changed, reloading.
+2024-04-13 16:06:54,947 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 16:07:00,123 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 16:07:09,005 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 16:07:32,691 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 16:07:33,680 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 16:08:50,545 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 16:08:51,756 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 16:09:23,350 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py changed, reloading.
+2024-04-13 16:09:24,488 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 16:09:33,816 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 16:09:39,303 ERROR django.request Internal Server Error: /api/produit/update/
+Traceback (most recent call last):
+  File "C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py", line 29, in miseAJourProduit
+    categorie=request.data['categories_Produit']
+KeyError: 'categories_Produit'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\core\handlers\exception.py", line 56, in inner
+    response = get_response(request)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\views\decorators\csrf.py", line 55, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "C:\Program Files (x86)\PYTON3.8\lib\site-packages\django\views\generic\base.py", line 84, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\g558505\AppData\Roaming\Python\Python38\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\views.py", line 42, in miseAJourProduit
+    return JsonResponse("error lors de mise a jour",safe=False,status=status.HTTP_500)
+AttributeError: module 'rest_framework.status' has no attribute 'HTTP_500'
+2024-04-13 16:09:39,307 ERROR django.server "PUT /api/produit/update/ HTTP/1.1" 500 105698
+2024-04-13 16:11:51,333 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:11:52,405 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:11:52,418 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:11:53,388 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:11:54,189 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:11:54,523 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:11:55,642 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:11:55,998 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:11:59,190 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:12:17,602 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:12:42,798 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:12:43,081 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:12:43,507 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:12:43,678 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:12:43,682 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:12:43,941 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:12:44,007 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:12:50,883 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:17:11,817 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:17:11,878 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:17:12,038 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:17:12,100 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:17:12,260 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:17:12,303 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:17:12,438 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:22:48,889 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:22:48,986 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:22:49,247 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:22:49,289 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:22:49,823 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:22:50,049 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:22:50,080 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:24:04,763 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:24:04,879 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:24:04,999 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:24:05,199 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:24:05,206 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:24:05,388 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:24:05,603 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:25:04,555 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:25:04,969 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:25:05,128 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:25:05,419 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:25:05,554 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:25:05,657 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:25:05,930 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:25:47,882 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:25:48,072 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:25:48,081 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:25:48,155 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:25:48,544 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:25:48,622 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:25:48,828 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:26:01,381 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:26:02,495 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:26:02,507 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:26:02,592 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:26:02,610 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:26:02,631 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:26:03,411 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:26:07,379 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:26:07,481 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:26:07,488 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:26:07,645 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:26:10,907 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:26:51,552 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:26:52,066 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:26:52,148 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:26:52,585 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:26:52,867 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:26:53,525 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:26:53,913 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:26:59,093 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:27:34,938 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:27:35,122 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:27:35,343 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:27:35,720 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:27:35,921 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:27:36,197 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:27:36,653 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:28:02,171 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:28:33,278 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:28:35,092 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:28:35,148 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:28:35,354 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:28:35,600 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:28:35,774 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:28:35,987 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:28:39,217 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:29:17,673 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:29:17,730 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:29:18,095 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:29:18,441 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:29:18,545 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:29:18,857 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:29:19,201 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:29:35,368 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:29:38,796 INFO django.server "OPTIONS /api/produit/updaye/ HTTP/1.1" 200 0
+2024-04-13 16:29:38,922 WARNING django.request Not Found: /api/produit/updaye/
+2024-04-13 16:29:38,922 WARNING django.server "PUT /api/produit/updaye/ HTTP/1.1" 404 2365
+2024-04-13 16:29:59,095 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:29:59,946 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:29:59,983 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:30:00,020 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:30:00,402 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:30:00,527 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:30:00,799 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:30:12,737 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:30:14,555 INFO django.server "OPTIONS /api/produit/update/ HTTP/1.1" 200 0
+2024-04-13 16:30:14,584 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 16:30:16,192 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 16:30:28,987 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:30:39,832 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 16:30:53,321 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:31:01,519 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 16:31:21,415 WARNING django.request Method Not Allowed: /api/produit/update/
+2024-04-13 16:31:21,415 WARNING django.server "GET /api/produit/update/ HTTP/1.1" 405 5774
+2024-04-13 16:31:21,494 INFO django.server "GET /static/rest_framework/css/prettify.css HTTP/1.1" 200 817
+2024-04-13 16:31:21,496 INFO django.server "GET /static/rest_framework/css/bootstrap-tweaks.css HTTP/1.1" 200 3385
+2024-04-13 16:31:21,498 INFO django.server "GET /static/rest_framework/css/bootstrap.min.css HTTP/1.1" 200 121457
+2024-04-13 16:31:21,508 INFO django.server "GET /static/rest_framework/css/default.css HTTP/1.1" 200 1152
+2024-04-13 16:31:21,527 INFO django.server "GET /static/rest_framework/js/ajax-form.js HTTP/1.1" 200 3597
+2024-04-13 16:31:21,532 INFO django.server "GET /static/rest_framework/js/csrf.js HTTP/1.1" 200 1719
+2024-04-13 16:31:21,560 INFO django.server "GET /static/rest_framework/js/jquery-3.5.1.min.js HTTP/1.1" 200 89476
+2024-04-13 16:31:21,569 INFO django.server "GET /static/rest_framework/js/bootstrap.min.js HTTP/1.1" 200 39680
+2024-04-13 16:31:21,570 INFO django.server "GET /static/rest_framework/js/prettify-min.js HTTP/1.1" 200 13632
+2024-04-13 16:31:21,584 INFO django.server "GET /static/rest_framework/js/default.js HTTP/1.1" 200 1268
+2024-04-13 16:31:21,584 INFO django.server "GET /static/rest_framework/img/grid.png HTTP/1.1" 200 1458
+2024-04-13 16:31:29,783 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:31:47,851 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 16:33:03,811 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:33:03,856 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:33:03,984 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:33:04,077 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:33:04,160 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:33:04,362 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:33:04,389 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:34:32,430 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:34:32,666 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:34:33,630 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:34:34,233 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:34:34,738 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:34:34,819 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:34:34,964 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:34:39,009 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:34:50,626 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 16:35:08,624 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 16:36:05,250 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:36:05,403 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:36:06,112 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:36:06,294 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:36:06,472 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:36:06,480 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:36:06,817 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:36:34,264 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:36:36,815 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 16:36:42,442 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:36:46,750 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 16:36:53,219 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:42:00,524 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:42:00,688 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:42:00,915 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:42:01,102 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:42:01,203 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:42:01,384 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:42:01,501 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 16:50:56,272 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 17:15:10,068 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 17:30:10,491 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 17:30:24,843 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 17:30:33,832 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 17:31:00,327 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 17:31:05,209 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 17:31:22,526 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 17:31:27,593 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 17:31:29,742 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 17:31:31,668 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 17:31:33,637 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 17:31:35,816 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 17:31:39,102 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 17:31:43,021 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 17:31:47,050 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 17:31:52,688 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 17:31:56,977 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 17:31:59,397 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 17:32:36,428 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 690
+2024-04-13 23:24:03,068 INFO django.utils.autoreload C:\Users\g558505\Documents\Personnel\TTT\Backend\test_back_end\produit\models.py changed, reloading.
+2024-04-13 23:24:04,519 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 23:29:59,889 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-13 23:30:08,646 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 483
+2024-04-13 23:33:00,475 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 483
+2024-04-13 23:34:42,753 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 483
+2024-04-13 23:34:49,804 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 483
+2024-04-13 23:37:07,295 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 483
+2024-04-13 23:37:09,108 INFO django.server "OPTIONS /api/produit/update/ HTTP/1.1" 200 0
+2024-04-13 23:37:09,143 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 23:37:25,745 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 23:37:54,146 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 23:38:13,182 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 483
+2024-04-13 23:38:46,031 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 509
+2024-04-13 23:38:47,630 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 23:38:48,466 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 23:38:49,451 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 23:38:51,651 WARNING django.request Not Found: /dashboard/dashboard1/
+2024-04-13 23:38:51,651 WARNING django.server "GET /dashboard/dashboard1/?testeur_Id=76 HTTP/1.1" 404 2167
+2024-04-13 23:38:54,173 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 509
+2024-04-13 23:39:19,232 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 519
+2024-04-13 23:39:21,121 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 23:39:22,891 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 23:40:01,130 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 519
+2024-04-13 23:41:46,714 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 519
+2024-04-13 23:42:21,485 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 519
+2024-04-13 23:42:36,771 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 23:42:37,935 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 23:42:39,698 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 23:43:14,810 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 519
+2024-04-13 23:43:21,231 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 519
+2024-04-13 23:43:48,162 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 519
+2024-04-13 23:43:52,877 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 519
+2024-04-13 23:44:15,741 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 519
+2024-04-13 23:44:29,644 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 519
+2024-04-13 23:45:26,235 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 519
+2024-04-13 23:45:53,474 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 519
+2024-04-13 23:46:19,481 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 519
+2024-04-13 23:46:44,717 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 519
+2024-04-13 23:47:34,480 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 519
+2024-04-13 23:48:40,475 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 519
+2024-04-13 23:49:15,523 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 519
+2024-04-13 23:49:46,236 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 519
+2024-04-13 23:49:49,939 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 23:49:52,704 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-13 23:50:24,855 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 519
+2024-04-13 23:51:04,248 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 519
+2024-04-14 00:01:01,952 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 519
+2024-04-14 00:01:04,942 INFO django.server "OPTIONS /api/produit/update/ HTTP/1.1" 200 0
+2024-04-14 00:01:04,953 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 00:01:05,970 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 00:02:08,146 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 519
+2024-04-14 00:02:12,182 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 519
+2024-04-14 00:03:41,894 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 763
+2024-04-14 00:05:12,816 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 781
+2024-04-14 00:06:23,833 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 781
+2024-04-14 00:06:24,670 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 00:06:25,475 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 00:07:25,425 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 782
+2024-04-14 00:10:03,761 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1031
+2024-04-14 00:10:25,228 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1286
+2024-04-14 00:10:56,349 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 00:10:58,311 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:11:00,676 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 00:11:03,360 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 00:11:09,925 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:11:11,012 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 00:11:12,500 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 00:11:58,363 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:11:59,325 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:12:06,701 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 00:12:07,621 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 00:12:32,989 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:13:24,952 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:13:28,946 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:13:58,064 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:14:03,947 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:14:13,373 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:14:41,354 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:15:25,746 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:15:37,578 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:15:41,340 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:15:48,556 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:17:16,963 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:17:22,344 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:17:40,963 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:18:00,781 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:18:04,823 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:21:40,011 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:21:46,586 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:22:17,172 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:22:22,206 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:22:28,212 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:22:47,772 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:22:52,786 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:24:15,959 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:24:24,252 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:27:10,717 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:27:15,284 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:29:07,400 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:29:15,256 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:29:17,289 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 00:29:17,826 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 00:29:18,483 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 00:29:44,787 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:30:01,008 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:30:04,836 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:30:38,323 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:30:50,023 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:31:06,915 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:31:15,772 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:31:30,613 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:31:38,004 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:31:40,971 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 00:31:49,541 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:32:02,580 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:32:07,742 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:32:09,363 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 00:32:10,553 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 00:32:57,828 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:33:03,869 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:33:21,297 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:33:27,009 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:33:47,875 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:33:56,386 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:33:58,180 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 00:34:13,162 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:34:21,119 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:34:22,587 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 00:34:35,255 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:35:00,430 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:38:20,783 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:38:40,474 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:38:46,473 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:39:48,225 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:40:21,115 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:40:31,345 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:40:38,157 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 00:41:15,542 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:41:25,178 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:41:54,466 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:42:02,028 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:42:10,773 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 00:43:17,451 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:43:28,165 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:43:34,245 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:43:37,745 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 00:44:11,444 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:44:19,057 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:45:03,208 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:45:10,782 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:45:24,658 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 00:45:46,814 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:45:51,285 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:46:17,809 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:47:42,295 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:48:39,106 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:51:30,262 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:51:42,463 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:52:08,784 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:54:58,958 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:55:13,704 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:56:43,715 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:57:00,856 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:57:10,678 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 00:57:38,608 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:00:19,031 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:00:50,765 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:00:59,635 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:03:23,645 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:03:27,174 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:04:25,263 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:05:14,553 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:05:15,892 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 01:05:56,750 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:06:46,716 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:08:35,981 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:08:38,012 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:09:34,177 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:09:42,926 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:10:19,007 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:10:21,457 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:11:13,995 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:11:20,226 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:11:55,131 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:11:57,008 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 01:11:57,410 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 01:14:53,582 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:14:57,065 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:14:57,724 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:16:35,650 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:16:37,172 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:16:39,484 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:18:31,561 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:18:32,782 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:18:35,643 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:18:42,315 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:18:46,834 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:20:04,770 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:20:05,124 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:20:08,741 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:23:03,685 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:23:04,597 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:23:09,876 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:23:29,453 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:23:29,484 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:23:30,089 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:24:24,756 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:24:26,103 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 01:24:31,140 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:24:34,666 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 01:24:42,092 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 01:24:50,334 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:24:54,138 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 01:24:58,141 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 01:25:00,611 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 01:25:01,711 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 01:25:27,192 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 01:25:28,700 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 01:25:34,298 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 01:25:44,889 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 01:25:49,671 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 01:25:52,140 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 01:26:13,300 WARNING django.request Not Found: /dashboard/dashboard1/
+2024-04-14 01:26:13,302 WARNING django.server "GET /dashboard/dashboard1/?testeur_Id=76 HTTP/1.1" 404 2167
+2024-04-14 01:26:17,478 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1291
+2024-04-14 01:26:22,856 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 01:28:03,273 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 01:28:05,283 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 01:28:13,237 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1290
+2024-04-14 01:30:10,689 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 01:30:10,723 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 01:30:17,167 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 01:30:21,222 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 01:32:44,007 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 01:32:50,298 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 01:32:52,522 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 01:32:59,768 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 01:33:16,480 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 01:33:19,013 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 01:33:24,433 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 01:33:28,803 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 01:33:29,851 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 01:33:32,265 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 01:33:33,481 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 01:33:54,610 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 01:33:57,354 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 01:34:01,572 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 01:34:07,022 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 01:34:09,118 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 01:34:25,773 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 01:34:27,931 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 01:34:37,981 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 01:34:40,108 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 01:36:28,727 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 01:36:29,160 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 01:53:28,848 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-14 02:25:15,047 INFO django.utils.autoreload Watching for file changes with StatReloader
+2024-04-14 02:25:41,862 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 02:25:50,683 INFO django.server "OPTIONS /api/produit/update/ HTTP/1.1" 200 0
+2024-04-14 02:25:50,714 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:25:53,704 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:25:58,917 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 02:26:04,702 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:26:28,277 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:27:13,884 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 02:27:18,983 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 02:27:21,386 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:27:24,838 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 02:27:27,166 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:27:27,167 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:27:29,535 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:27:34,056 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1541
+2024-04-14 02:27:37,814 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:27:39,973 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 02:27:42,638 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:27:44,016 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 02:27:46,123 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:27:47,928 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1541
+2024-04-14 02:27:51,473 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:27:53,285 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:27:54,743 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1542
+2024-04-14 02:29:01,433 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1542
+2024-04-14 02:29:01,968 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1542
+2024-04-14 02:29:08,944 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1542
+2024-04-14 02:29:14,619 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:29:18,784 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:29:27,373 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:29:30,012 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:29:57,619 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1542
+2024-04-14 02:30:05,180 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1542
+2024-04-14 02:30:06,265 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1542
+2024-04-14 02:30:08,155 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1542
+2024-04-14 02:30:10,796 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:31:21,056 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1542
+2024-04-14 02:31:21,923 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1542
+2024-04-14 02:31:26,726 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1542
+2024-04-14 02:31:28,653 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:31:47,157 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:31:55,077 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 02:31:59,740 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:32:10,904 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:32:15,465 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:32:21,264 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:32:41,036 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:32:53,244 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 02:33:07,461 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:33:11,005 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:33:24,041 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:33:34,298 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:33:39,805 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:33:44,006 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 02:33:50,171 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:34:29,794 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 02:34:31,459 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 02:34:34,204 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 02:34:37,421 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:35:17,543 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 02:35:20,162 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 02:35:22,099 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 02:35:45,050 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 02:35:52,801 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:36:19,249 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:36:23,351 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:36:28,507 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:37:33,473 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:37:45,326 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:38:11,745 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:38:24,667 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:38:25,969 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:39:08,311 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1538
+2024-04-14 02:39:08,451 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1538
+2024-04-14 02:39:16,628 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1538
+2024-04-14 02:39:18,551 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1538
+2024-04-14 02:39:36,921 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1538
+2024-04-14 02:39:39,708 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1538
+2024-04-14 02:39:41,606 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1538
+2024-04-14 02:39:46,710 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:39:53,924 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:40:26,051 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1538
+2024-04-14 02:40:26,708 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1538
+2024-04-14 02:40:30,114 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1538
+2024-04-14 02:40:37,073 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:40:37,087 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:40:48,493 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1539
+2024-04-14 02:40:53,674 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:40:59,265 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 02:41:02,639 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:41:02,652 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:41:27,689 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:41:27,696 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:41:28,584 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:41:28,588 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:41:45,218 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:41:45,223 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:41:45,227 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:41:46,284 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:41:46,284 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:41:46,291 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:41:54,552 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1541
+2024-04-14 02:41:58,991 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:41:58,994 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:42:01,523 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:42:01,528 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:42:02,916 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:42:02,917 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:42:05,521 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 02:42:35,253 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 02:42:36,250 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 02:42:37,660 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 02:42:43,601 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 02:42:43,847 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 02:42:44,737 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 02:42:53,495 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:42:53,496 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:42:55,567 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:42:55,570 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:42:57,581 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 02:43:00,049 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:43:00,050 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:43:02,050 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:43:02,052 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:43:06,549 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:43:06,549 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:43:12,600 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:43:12,601 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:43:14,145 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:43:14,146 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:43:18,915 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:43:18,916 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:43:18,924 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:43:20,503 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 02:43:23,549 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:43:26,533 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:43:26,535 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:43:28,550 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 02:43:32,734 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:43:34,681 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:43:34,693 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:43:40,412 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:43:40,417 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:43:40,418 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 02:43:42,963 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 02:44:43,800 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 03:03:35,089 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 03:03:44,050 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 03:08:55,954 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 03:11:05,252 INFO django.server "GET /api/produit/list/ HTTP/1.1" 200 1540
+2024-04-14 03:11:39,073 INFO django.server "OPTIONS /api/produit/update/ HTTP/1.1" 200 0
+2024-04-14 03:11:39,077 INFO django.server "OPTIONS /api/produit/update/ HTTP/1.1" 200 0
+2024-04-14 03:11:39,089 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 03:11:39,095 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
+2024-04-14 03:11:42,945 INFO django.server "PUT /api/produit/update/ HTTP/1.1" 200 27
